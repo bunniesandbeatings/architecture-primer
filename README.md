@@ -1,1 +1,1 @@
-Leanpu source for my book, modular code.
+Leanpub source for my book "Modular Architecture Primer".

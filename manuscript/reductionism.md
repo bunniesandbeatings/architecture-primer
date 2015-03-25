@@ -18,18 +18,16 @@ The "Real world object as a model" metaphor does not edify programmers in the ar
 other developers can reason about. It gives you a way of understanding noun-verb interactions in an object, and then
 does you a disservice when you try to apply it to scalable architectures.
 
-The reduction in this book does no such disservice. If you used it dogmattically for the rest of your life, you would
+The reduction in this book does no such disservice. If you used it dogmattically alongside 'Clean Code' for the rest of your life, you would
 always build maintainable code. When you are comfortable with it, you can start to use your own judgement as to when to
-apply it. When things get brittle, you can always reintroduce it.
+apply it or modify it.
 
 Precursors
 ==========
 
 Two great software reductions that are already widely known are 'Clean Code' and 'SOLID'.
 
-The 'Clean Code' reduction talks about how you write code at the object, method and variable level to self document code
-and avoid cognitive overhead for the next consumer of your work. It helps you reason about much of the minutiae where
-you will spend most of your time focused on actual code.
+The 'Clean Code' reduction talks about how you write code at the object, method and variable level. It describes self documenting code which reduces cognitive overhead for the next consumer of your work. It helps you reason about much of the minutiae where you will spend most of your time focused on actual lines of code.
 
 -- example
 -- resource not for cc-bob
